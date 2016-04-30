@@ -149,7 +149,7 @@ a:focus {
     color: #fff;
     background: url(../img/13H-min.jpg) no-repeat bottom center scroll;
     /*background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;*/
-    background-color: #fff;
+    background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -315,7 +315,7 @@ a:focus {
 .btn-default:focus {
     border: 1px solid #42dca3;
     outline: 0;
-    color: #000;
+    color: #fff;
     background-color: #42dca3;
 }
 
